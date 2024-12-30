@@ -30,3 +30,4 @@ function rec(digits) {
     }
     return result;
 }
+console.log(rec('47'))
