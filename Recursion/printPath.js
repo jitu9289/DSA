@@ -3,6 +3,7 @@ function countWays(n, ans) {
         return 0;
     }
     if (n === 0) {
+        console.log(ans)
         return 1; // This represents one valid way
     }
 
